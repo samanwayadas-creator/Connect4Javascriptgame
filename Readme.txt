@@ -1,5 +1,7 @@
 # Javascript connect 4 game.
 
+This projects demonstrates the ability of Javascript along with Jquery Library to create amazing browser games
+
 To run it download all the code containing files and save it in a folder.
 Run the browser code, or the HTML file.
 
