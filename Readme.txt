@@ -1,3 +1,8 @@
+# Javascript connect 4 game.
+
+To run it download all the code containing files and save it in a folder.
+Run the browser code, or the HTML file.
+
 Instructions to play
 1) Set the player 1 name.
 2) Set the player 2 name.
